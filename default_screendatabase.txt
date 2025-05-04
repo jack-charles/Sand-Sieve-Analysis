@@ -1,0 +1,4 @@
+Name, Type, Aperture
+4 Gauge WWS, WWS, 101.6
+6 Gauge WWS, WWS, 152.4
+Excluder 150, Mesh, 150
