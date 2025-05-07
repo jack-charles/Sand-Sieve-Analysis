@@ -8,7 +8,6 @@
 
 
 import math
-import wellengcalc as wec
 import json
 import numpy as np
 import matplotlib.pyplot as plt
